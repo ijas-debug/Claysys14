@@ -1,0 +1,11 @@
+C:\Users\IJAS\source\repos\UserValidateForm\bin\Debug\UserValidateForm.exe.config
+C:\Users\IJAS\source\repos\UserValidateForm\bin\Debug\UserValidateForm.exe
+C:\Users\IJAS\source\repos\UserValidateForm\bin\Debug\UserValidateForm.pdb
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.Properties.Resources.resources
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.csproj.GenerateResource.cache
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.exe
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.pdb
+C:\Users\IJAS\source\repos\UserValidateForm\obj\Debug\UserValidateForm.Form1.resources
